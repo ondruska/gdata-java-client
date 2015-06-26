@@ -30,6 +30,7 @@
   <!-- path for third_party google dependencies -->
   <path id="build.google-deps.classpath">
     <pathelement location="${google-jsr305.jar}"/>
+    <pathelement location="${google-oauth-client.jar}"/>
     <pathelement location="${guava.jar}"/>
   </path>
 
